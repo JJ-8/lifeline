@@ -8,5 +8,5 @@ const char process_names[][50] = {
     "vi",
     "nano",
     "apache",
-    "GREETINGS FROM TEAM NL :)"
+    "TEAM 2 FTW!"
 };
