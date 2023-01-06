@@ -8,5 +8,13 @@ const char process_names[][50] = {
     "vi",
     "nano",
     "apache",
-    "TEAM 2 FTW!"
+    "htop",
+    "top",
+    "nginx",
+    "cron",
+    "firefox",
+    "systemd",
+    "postgres",
+    "TEAM 2 FTW!",
+    "KILLME ;)"
 };
